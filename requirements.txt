@@ -3,7 +3,7 @@ SQLAlchemy==0.9.8
 argparse==1.2.1
 distribute==0.6.24
 httplib2==0.9
-py==1.4.20
+py==1.10.0
 pycrypto==2.6.1
 cryptography==0.6.1
 python-dateutil==2.2
