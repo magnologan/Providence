@@ -15,7 +15,7 @@ should-dsl==2.1.2
 six==1.7.3
 urllib3
 boto==2.33.0
-Jinja2==2.7.3
+Jinja2==2.11.3
 ndg-httpsclient
 pyasn1
 lxml==3.4.1
